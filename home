@@ -1,0 +1,17 @@
+<html>
+	<head>
+	</head>
+	<tile> </tile>
+		<body>
+		
+		<body style="font-family: arial" text= "red">
+		<h1 align = "center"> Tudo da Mare </h1><br>
+		<h4 align = "rigth"> Menu </h4>
+<ul>
+	<li list-style="none"style="float:rigth"; margin-rigth= "15px";cursor="point">	<a href ="sitemare.html">Home </a></li>
+	<li>	<a href ="sobre.html">Sobre </a></li>
+	<li>	<a href ="noticia.html">Noticias </a></li> 
+	<li>	<a href = "contato.html">Contato </a></li>  
+</ul>		
+		</body>
+</html>
