@@ -1,17 +1,23 @@
+
 <html>
 	<head>
+		<link rel="stylesheet" type="text/css" href="formatacao.css"/>
 	</head>
 	<tile> </tile>
 		<body>
+		<article>
+		<body background="morro.png">
 		
-		<body style="font-family: arial" text= "red">
-		<h1 align = "center"> Tudo da Mare </h1><br>
-		<h4 align = "rigth"> Menu </h4>
-<ul>
-	<li list-style="none"style="float:rigth"; margin-rigth= "15px";cursor="point">	<a href ="sitemare.html">Home </a></li>
-	<li>	<a href ="sobre.html">Sobre </a></li>
-	<li>	<a href ="noticia.html">Noticias </a></li> 
-	<li>	<a href = "contato.html">Contato </a></li>  
-</ul>		
+		<h1 id ="cabeçalho"> Nome do site </h1><br>
+		<div id="submenu" class="classe1">
+			<a href ="sitemare.html">Home</a>
+			<a href ="sobre.html">Sobre</a>
+			<a href ="noticia.html">Noticias</a> 
+			<a href = "contato.html">Contato</a>  
+		</div>
+
+<div id="texto"> Aqui entra o conteúdo.
+
+</div>
 		</body>
 </html>
